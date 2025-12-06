@@ -1,0 +1,48 @@
+name: habit
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons:
+  flex_color_scheme:
+  easy_date_timeline:
+  flutter_riverpod:
+  flutter_hooks:
+  hooks_riverpod:
+  drift:
+  drift_flutter:
+  rxdart:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints:
+  custom_lint:
+  riverpod_lint:
+  drift_dev:
+  build_runner:
+  flutter_launcher_icons:
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/image/Gemini_Generated_Image_w0smutw0smutw0sm-removebg-preview.png"
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/image/Gemini_Generated_Image_w0smutw0smutw0sm-removebg-preview.png
+
+  fonts:
+    - family: Playwrite Norge
+      fonts:
+        - asset: assets/font/PlaywriteNO-Regular.ttf
