@@ -1,16 +1,32 @@
-# habit
+# HabitFlare
 
-A new Flutter project.
+**HabitFlare** is a modern habit tracking mobile application built with **Flutter**. The app helps users create, manage, and maintain daily habits, track streaks, and visualize personal progress with a clean, minimal, and responsive interface.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🌟 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Add, edit, and delete habits  
+- Track daily completions and streaks  
+- View daily and overall progress summaries  
+- Lightweight local database using **Drift (SQLite ORM)**  
+- Intuitive and minimal UI for seamless navigation  
+- Offline-first functionality
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+- **Flutter 3.x** for cross-platform UI  
+- **Dart** programming language  
+- **Drift (SQLite)** for local persistence  
+- **path_provider** for storing database files  
+- Modular and clean architecture for scalable development
+
+---
+
+## ⚡ Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/username/HabitFlare.git
